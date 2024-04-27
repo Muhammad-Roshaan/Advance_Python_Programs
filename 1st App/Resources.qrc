@@ -1,0 +1,33 @@
+<RCC>
+  <qresource>
+    <file>C:/Users/Strix/Desktop/SideMenu/images/chat.png</file>
+    <file>C:/Users/Strix/Desktop/SideMenu/images/comments white.png</file>
+    <file>C:/Users/Strix/Desktop/SideMenu/images/comments.png</file>
+    <file>C:/Users/Strix/Desktop/SideMenu/images/dashboard Blue.png</file>
+    <file>C:/Users/Strix/Desktop/SideMenu/images/dashboard white.png</file>
+    <file>C:/Users/Strix/Desktop/SideMenu/images/dashboard.png</file>
+    <file>C:/Users/Strix/Desktop/SideMenu/images/dashboardwhite.png</file>
+    <file>C:/Users/Strix/Desktop/SideMenu/images/menu-bar blue.png</file>
+    <file>C:/Users/Strix/Desktop/SideMenu/images/menu-bar white.png</file>
+    <file>C:/Users/Strix/Desktop/SideMenu/images/menu-bar.png</file>
+    <file>C:/Users/Strix/Desktop/SideMenu/images/Notification Black.png</file>
+    <file>C:/Users/Strix/Desktop/SideMenu/images/Notification Blue.png</file>
+    <file>C:/Users/Strix/Desktop/SideMenu/images/Notification white.png</file>
+    <file>C:/Users/Strix/Desktop/SideMenu/images/power black.png</file>
+    <file>C:/Users/Strix/Desktop/SideMenu/images/power blue.png</file>
+    <file>C:/Users/Strix/Desktop/SideMenu/images/power white.png</file>
+    <file>C:/Users/Strix/Desktop/SideMenu/images/profile 2white.png</file>
+    <file>C:/Users/Strix/Desktop/SideMenu/images/profile black.png</file>
+    <file>C:/Users/Strix/Desktop/SideMenu/images/profile blue.png</file>
+    <file>C:/Users/Strix/Desktop/SideMenu/images/profile white.png</file>
+    <file>C:/Users/Strix/Desktop/SideMenu/images/Search Icon Black.png</file>
+    <file>C:/Users/Strix/Desktop/SideMenu/images/Search Icon Blue.png</file>
+    <file>C:/Users/Strix/Desktop/SideMenu/images/Search Icon white.png</file>
+    <file>C:/Users/Strix/Desktop/SideMenu/images/Setting Black.png</file>
+    <file>C:/Users/Strix/Desktop/SideMenu/images/Setting Blue.png</file>
+    <file>C:/Users/Strix/Desktop/SideMenu/images/Setting white.png</file>
+    <file>C:/Users/Strix/Desktop/SideMenu/images/user (1).png</file>
+    <file>C:/Users/Strix/Desktop/SideMenu/images/user (blue).png</file>
+    <file>C:/Users/Strix/Desktop/SideMenu/images/user (white).png</file>
+  </qresource>
+</RCC>
